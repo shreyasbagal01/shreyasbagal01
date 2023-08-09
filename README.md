@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shreyasbagal01@gmail.com**
 
-- ⚡ Active fact **I am so dedicated to tasks..**
+- ⚡ Active fact **I am so dedicated to performing a tasks..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
