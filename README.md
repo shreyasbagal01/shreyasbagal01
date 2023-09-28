@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyas Bagal</h1>
-<h3 align="center">I am a second-year student. I am enthusiastic when it comes to learning new programming-related second-year aspects. I'm developing different skills in Flutter development, web development, and Java development and improving my core concepts. I have completed an internship and am interested to work on different scales. I am dedicated to my work, also explore new fields. I hope to get some opportunities and gain some knowledge.</h3>
+<h3 align="center">I am a third-year student. I am enthusiastic when it comes to learning new programming-related second-year aspects. I'm developing different skills in Flutter development, web development, and Java development and improving my core concepts. I have completed an internship and am interested to work on different scales. I am dedicated to my work, also explore new fields. I hope to get some opportunities and gain some knowledge.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 
