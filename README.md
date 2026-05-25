@@ -14,7 +14,7 @@
 
 <a href="https://shreyasbagal.in/"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a4d3f,50:0f6b58,100:c2410c&height=200&section=header&text=Shreyas%20Bagal&fontSize=60&fontColor=fbf7ef&fontAlignY=38&desc=Co-Founder%20·%20Webbloom%20Digital%20·%20Pune&descSize=18&descAlignY=60&descAlign=50" alt="header"/></a>
 
-<a href="https://shreyasbagal.in/"><img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=500&size=28&duration=3200&pause=900&color=0A4D3F&center=true&vCenter=true&width=720&lines=Hi+👋%2C+I'm+Shreyas+Bagal;Co-founder+of+Webbloom+Digital;Pune-based+digital+marketing+agency;1.1M%2B+verified+reach+delivered;Numbers+screenshot-verifiable.+Always." alt="Typing SVG" /></a>
+<a href="https://shreyasbagal.in/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=900&color=0A4D3F&center=true&vCenter=true&width=720&lines=Co-founder+of+Webbloom+Digital;Pune-based+digital+marketing+agency;1.1M%2B+verified+reach+delivered;20+Meta+Ads+campaigns+at+%E2%82%B958+blended+CPL;Numbers+screenshot-verifiable.+Always." alt="Typing SVG" /></a>
 
 <br>
 
